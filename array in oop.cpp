@@ -146,13 +146,6 @@ class array{
 			for(int i=0;i<6;i++){
 			cout<<arr[i]<<" ";}
 		}
-		void insertion()
-		{
-			int size=6;
-			arr[6]=50;
-			size++;
-			cout<<arr[6];
-		}
 	};
 	int main()
 	{
@@ -171,7 +164,6 @@ class array{
 		a1.findfrequency();
 		a1.sortasc();
 		a1.sortdsc();
-		a1.insertion();
 		return 0;
 	}
 		
