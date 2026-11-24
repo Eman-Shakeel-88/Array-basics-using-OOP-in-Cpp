@@ -1,5 +1,5 @@
 # C++ Array Basics
-This repository contains my C++ array practice programs ,developed while learning programming and Data Structure fundamentals.
+This repository contains my C++ array practice program ,developed while learning programming and Data Structure fundamentals.
 ## Topics Covered:
 - Array declaration
 - Taking input and display array elements
